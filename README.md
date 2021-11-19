@@ -10,9 +10,8 @@ The users have to login to the system first. If the user is authenticated, based
 
 ## Data Sensitivity and Privilege Levels
 
-![Data](img/3.png)
-
 The sensitivity value given below is inverse to the actual sensitivity. The lower the value the higher the sensitivity.
-
 Privilege level is given based on the sensitivity value. A user can view data with the same privilege value or higher.
+
+![Data](img/3.png)
 
